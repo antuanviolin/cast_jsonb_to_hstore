@@ -1,5 +1,0 @@
-comment = 'function for convert json hstore'
-default_version = '1.0'
-module_pathname = '$libdir/my_convert'
-relocatable = true
-requires = 'hstore'
